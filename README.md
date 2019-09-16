@@ -1,9 +1,10 @@
-# votador
+# VOTADOR 0.1
 
 ##Criando o banco
 
 -Cria um banco em sua instância do PG chamado votador usando a ferramenta de sua preferência
 -Rode o script database.sql disponível na raiz do projeto
+-Configure o servidor(endereço, porta e usuário) em backend/appsettings.json
 
 ##Rodando o backend
 
