@@ -1,0 +1,17 @@
+D:\Desenvolvimento\projeto\back\votador\votador\bin\Debug\netcoreapp2.2\votador.deps.json
+D:\Desenvolvimento\projeto\back\votador\votador\bin\Debug\netcoreapp2.2\votador.runtimeconfig.json
+D:\Desenvolvimento\projeto\back\votador\votador\bin\Debug\netcoreapp2.2\votador.runtimeconfig.dev.json
+D:\Desenvolvimento\projeto\back\votador\votador\bin\Debug\netcoreapp2.2\votador.dll
+D:\Desenvolvimento\projeto\back\votador\votador\bin\Debug\netcoreapp2.2\votador.pdb
+D:\Desenvolvimento\projeto\back\votador\votador\bin\Debug\netcoreapp2.2\backend.dll
+D:\Desenvolvimento\projeto\back\votador\votador\bin\Debug\netcoreapp2.2\backend.pdb
+D:\Desenvolvimento\projeto\back\votador\votador\obj\Debug\netcoreapp2.2\votador.csprojAssemblyReference.cache
+D:\Desenvolvimento\projeto\back\votador\votador\obj\Debug\netcoreapp2.2\votador.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\projeto\back\votador\votador\obj\Debug\netcoreapp2.2\votador.RazorAssemblyInfo.cache
+D:\Desenvolvimento\projeto\back\votador\votador\obj\Debug\netcoreapp2.2\votador.RazorAssemblyInfo.cs
+D:\Desenvolvimento\projeto\back\votador\votador\obj\Debug\netcoreapp2.2\votador.AssemblyInfoInputs.cache
+D:\Desenvolvimento\projeto\back\votador\votador\obj\Debug\netcoreapp2.2\votador.AssemblyInfo.cs
+D:\Desenvolvimento\projeto\back\votador\votador\obj\Debug\netcoreapp2.2\votador.RazorTargetAssemblyInfo.cache
+D:\Desenvolvimento\projeto\back\votador\votador\obj\Debug\netcoreapp2.2\votador.csproj.CopyComplete
+D:\Desenvolvimento\projeto\back\votador\votador\obj\Debug\netcoreapp2.2\votador.dll
+D:\Desenvolvimento\projeto\back\votador\votador\obj\Debug\netcoreapp2.2\votador.pdb

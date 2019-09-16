@@ -1,0 +1,9 @@
+D:\Desenvolvimento\projeto\back\votador\backend\bin\Debug\netcoreapp2.2\backend.deps.json
+D:\Desenvolvimento\projeto\back\votador\backend\bin\Debug\netcoreapp2.2\backend.dll
+D:\Desenvolvimento\projeto\back\votador\backend\bin\Debug\netcoreapp2.2\backend.pdb
+D:\Desenvolvimento\projeto\back\votador\backend\obj\Debug\netcoreapp2.2\backend.csprojAssemblyReference.cache
+D:\Desenvolvimento\projeto\back\votador\backend\obj\Debug\netcoreapp2.2\backend.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\projeto\back\votador\backend\obj\Debug\netcoreapp2.2\backend.AssemblyInfoInputs.cache
+D:\Desenvolvimento\projeto\back\votador\backend\obj\Debug\netcoreapp2.2\backend.AssemblyInfo.cs
+D:\Desenvolvimento\projeto\back\votador\backend\obj\Debug\netcoreapp2.2\backend.dll
+D:\Desenvolvimento\projeto\back\votador\backend\obj\Debug\netcoreapp2.2\backend.pdb
