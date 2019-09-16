@@ -25,6 +25,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "front", "front\", "{2132C37
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "49685"
+		SlnRelativePath = "front\"
 	EndProjectSection
 EndProject
 Global
