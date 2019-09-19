@@ -1,6 +1,6 @@
 # VOTADOR 0.1
 
-## riando o banco
+## Criando o banco
 
 -Crie um banco em sua instância do PG chamado votador usando a ferramenta de sua preferência
 
