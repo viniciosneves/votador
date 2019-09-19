@@ -1,17 +1,19 @@
 # VOTADOR 0.1
 
-##Criando o banco
+## riando o banco
 
--Cria um banco em sua instância do PG chamado votador usando a ferramenta de sua preferência
+-Crie um banco em sua instância do PG chamado votador usando a ferramenta de sua preferência
+
 -Rode o script database.sql disponível na raiz do projeto
+
 -Configure o servidor(endereço, porta e usuário) em backend/appsettings.json
 
-##Rodando o backend
+## Rodando o backend
 
 - Abrir a solução no visual studio e iniciar o projeto padrão (votador)
 - esse projeto é a API Rest que será consumida pelo backend
 
-###Endpoints da API
+### Endpoints da API
 
 [GET]
 - /auditoria
@@ -43,7 +45,7 @@ todos os usuários podem listar os recursos disponíveis para votação (ainda n
 todos os usuários podem votar em um recurso
 
 
-##Frontend
+## Frontend
 
 Usando o bash de sua preferência, navegue até a pasta recipente do frontend (./front a partir da raiz do projeto)
 
